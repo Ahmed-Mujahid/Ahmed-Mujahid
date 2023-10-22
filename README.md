@@ -1,16 +1,16 @@
-### Hi there 👋
- <img align="right" alt="GIF" src="https://github.com/Ahmed-Mujahid/readMeImages/blob/main/gif-for-marketing-businessman-working-52650-169703.gif?raw=true" width="500" height="320" />
-<!--
-**Ahmed-Mujahid/Ahmed-Mujahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Ahmed Mujahid 👋
 
-Here are some ideas to get you started:
+🚀 I'm an IT professional with a passion for iOS development.
+📱 Skilled in iOS, watchOS, tvOS, and iPad app development.
+💡 Constantly learning and exploring new technologies.
+🌟 Committed to delivering user-friendly, innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- iOS Development (UIKit, RxSwift/RxCocoa, etc.)
+- Third-party Analytics Integration (Crashlytics, Google Analytics)
+- Push Notifications
+- Localization (Multiple Languages)
+
+📫 Let's connect:
+- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- [Email](mailto:youremail@example.com)
