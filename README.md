@@ -12,5 +12,5 @@
 - Localization (Multiple Languages)
 
 📫 Let's connect:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](www.linkedin.com/in/ahmed-mujahid)
+- [Email](mailto:muhammad.ahmed6663@gmail.com)
