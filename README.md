@@ -55,7 +55,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="[https://cdn.worldvectorlogo.com/logos/adobe-xd.svg](https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-tile.svg)" alt="xd" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-tile.svg" alt="xd" width="40" height="40"/>
     </a> 
     </a>
     <a href="[https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg](https://www.atlassian.com/software/jira)" target="_blank" rel="noreferrer">
