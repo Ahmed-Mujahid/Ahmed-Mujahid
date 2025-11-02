@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Swift, SwiftUI**
 
-- 📫 How to reach me **muhammd.ahmed6663@gmail.com**
+- 📫 How to reach me **muhammad.ahmed6663@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/ahmed-mujahid](www.linkedin.com/in/ahmed-mujahid)
 
